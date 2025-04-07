@@ -6,3 +6,4 @@ matplotlib
 qiskit==0.45.2
 qiskit-machine-learning==0.6.1
 qiskit-aer==0.12.2
+opencv-python
