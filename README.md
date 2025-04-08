@@ -4,7 +4,7 @@ Early Experiments for EXXA GSoC '25 @ ML4SCI
 This repository documents initial experiments conducted to explore the feasibility of Quantum Machine Learning (QML) methods for scientific data modeling.  
 The goal is to build familiarity with Qiskit, TorchConnector, quantum circuit design, and training hybrid quantum-classical models ahead of the main project work.
 
-➡️ [GSoC Proposal Link]()  
+➡️ [GSoC Proposal Link](https://drive.google.com/file/d/1dO6XMyig0qGGis_iXVehzV9MI89aAuGf/view?usp=sharing)  
 ➡️ [EXXA Evaluation Tests](https://github.com/arnav-makkar/EXXA-Evaluation-Test)  
 ➡️ [Official Project Description](https://ml4sci.org/gsoc/2025/proposal_EXXA5.html)
 
